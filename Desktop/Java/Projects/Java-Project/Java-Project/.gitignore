@@ -6,7 +6,7 @@ out/
 .kotlin
 Java-Project.iml
 .idea/
-
+targer/
 ### Eclipse ###
 .apt_generated
 .classpath
